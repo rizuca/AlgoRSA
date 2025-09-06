@@ -162,7 +162,7 @@ export function RSAEncryption() {
             </h1>
           </div>
           <p className="text-gray-600 max-w-2xl mx-auto text-sm sm:text-base px-4 sm:px-0">
-            Implementasi sederhana algoritma RSA untuk enkripsi dan dekripsi teks. 
+            aplikasi sederhana algoritma RSA untuk enkripsi dan dekripsi teks dari kelompok 4 PSM24A
             RSA menggunakan sepasang kunci (publik dan privat) untuk mengamankan data.
           </p>
         </motion.div>
